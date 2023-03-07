@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java ,C ,C#,HTML,PHP,Android**
 
-- 📫 How to reach me **thamilahiru@gmail.com**
+- 📫 How to reach me **thameeradananjaya08@gmail.com**
 
 - ⚡ Fun fact **Moderating**
 
