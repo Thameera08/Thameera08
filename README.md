@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/thameera_mg" target="blank"><img src="https://img.shields.io/twitter/follow/thameera_mg?logo=twitter&style=for-the-badge" alt="thameera_mg" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **UNITY**
 
-- 💬 Ask me about **Java ,C ,C#,HTML,PHP,Android**
+- 💬 Ask me about **Java,C ,C#,HTML,PHP,Android,Unity**
 
 - 📫 How to reach me **thameeradananjaya08@gmail.com**
 
