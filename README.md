@@ -33,7 +33,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Thameera08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://user-images.githubusercontent.com/3877113/148989097-a60502d4-c7c8-42a5-89be-e4383afe5f45.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Thameera08&icon=0&color=0)](https://visitcount.itsvg.in)
