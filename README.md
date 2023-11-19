@@ -20,20 +20,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thameera08&theme=onedark&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thameera08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Thameera_MG)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Thameera08&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://user-images.githubusercontent.com/3877113/148989097-a60502d4-c7c8-42a5-89be-e4383afe5f45.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Thameera08&icon=0&color=0)](https://visitcount.itsvg.in)
