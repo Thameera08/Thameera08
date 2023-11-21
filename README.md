@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Attendace Application**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Dart, Rest API, Flutter**
 
 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Thameera08/Thameera08/issues)**
 
