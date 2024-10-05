@@ -22,7 +22,7 @@
 
 <div align="center">
   <h3>🎉 Hacktoberfest 2024 Participant 🎉</h3>
-  <img src="[https://path-to-your-hacktoberfest-badge.png](https://www.holopin.io/hacktoberfest2024/userbadge/cm1w3dnzg46910cjpedqgnp5t)" alt="Hacktoberfest 2024 Badge" width="200px"/>
+  <img src="[[https://path-to-your-hacktoberfest-badge.png](https://www.holopin.io/hacktoberfest2024/userbadge/cm1w3dnzg46910cjpedqgnp5t)](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)" alt="Hacktoberfest 2024 Badge" width="200px"/>
   <p>Contributing to open-source projects, making an impact in the developer community!</p>
 </div>
  
