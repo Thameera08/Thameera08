@@ -5,11 +5,11 @@
 <h3 align="center">A passionate Mobile Application Developer from Sri Lanka</h3>
 
 <div align="center">
-    🔭 I’m currently working on **Attendance Application**  
-    🌱 I’m currently learning **Dart, Rest API, Flutter**  
-    💬 Ask me about **Node.js, React, Firebase, MongoDB...**  
-    ⚡ Fun fact **I enjoy watching TV series**
+  <img src="https://github-readme-stats.vercel.app/api?username=thameera08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thameera08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <div align="center">
   <a href="mailto:thameeradananjaya08@gmail.com">
@@ -39,6 +39,7 @@
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 </div>
-##
+
+<hr/>
 
 [![An image of @thameera08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thameera08)](https://holopin.io/@thameera08)
