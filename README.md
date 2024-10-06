@@ -20,13 +20,6 @@
 
  </div>
 
-<div align="center">
-  <h3>🎉 Hacktoberfest 2024 Participant 🎉</h3>
-  <img src="![image](https://github.com/user-attachments/assets/3de601a5-84c5-4e85-ab5a-58704c93cca2)
-" alt="Hacktoberfest 2024 Badge" width="200px"/>
-  <p>Contributing to open-source projects, making an impact in the developer community!</p>
-</div>
- 
 <div align="center"> 
   <a href="mailto:thameeradananjaya08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
