@@ -22,7 +22,7 @@
 
 <div align="center">
   <h3>🎉 Hacktoberfest 2024 Participant 🎉</h3>
-  <img src="![image](https://github.com/user-attachments/assets/e1856226-8242-476c-8d77-da48cf4615e8)
+  <img src="![image](https://github.com/user-attachments/assets/3de601a5-84c5-4e85-ab5a-58704c93cca2)
 " alt="Hacktoberfest 2024 Badge" width="200px"/>
   <p>Contributing to open-source projects, making an impact in the developer community!</p>
 </div>
