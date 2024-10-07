@@ -34,7 +34,11 @@
 </div>
 
 <hr/>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+</div>
 <div align="center">
 <a href='https://www.buymeacoffee.com/botson.__' target='_blank'>
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
