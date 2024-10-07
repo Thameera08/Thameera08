@@ -33,11 +33,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
 </div>
 
-<hr/>
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thameera08/thameera08/output/snake.svg" alt="Snake animation" />
-
 </div>
 <div align="center">
 <a href='https://www.buymeacoffee.com/botson.__' target='_blank'>
@@ -48,3 +43,7 @@
 <hr/>
 
 [![An image of @thameera08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thameera08)](https://holopin.io/@thameera08)
+
+<hr/>
+
+<img src="https://raw.githubusercontent.com/thameera08/thameera08/output/snake.svg" alt="Snake animation" />
