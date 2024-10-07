@@ -43,7 +43,3 @@
 <hr/>
 
 [![An image of @thameera08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thameera08)](https://holopin.io/@thameera08)
-
-<hr/>
-
-<img src="https://raw.githubusercontent.com/thameera08/thameera08/output/snake.svg" alt="Snake animation" />
