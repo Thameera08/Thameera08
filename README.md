@@ -4,6 +4,8 @@
 
 <h3 align="center">A passionate Mobile Application Developer from Sri Lanka</h3>
 
+![cover LinkedIn ](https://github.com/user-attachments/assets/d2939228-8916-4de5-b4a8-0248a38fdf79)
+
 ###
 
 <div align="center">
