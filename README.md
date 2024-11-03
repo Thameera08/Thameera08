@@ -1,8 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thameera+Dananjaya;" />
-</h1>
-
-<h3 align="center">A passionate Mobile Application Developer from Sri Lanka</h3>
 
 ![cover LinkedIn ](https://github.com/user-attachments/assets/d2939228-8916-4de5-b4a8-0248a38fdf79)
 
