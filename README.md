@@ -28,10 +28,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thameera08&theme=dark&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thameera08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
