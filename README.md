@@ -83,9 +83,9 @@ class Thameera {
 
 | Project | Description | Tech | Role |
 | :-- | :-- | :-- | :-- |
-| [📱 Project One](https://github.com/Thameera08/project-one) | Short description of the app and the problem it solves | Flutter, Firebase | Lead Engineer |
-| [🌐 Project Two](https://github.com/Thameera08/project-two) | Short description of the product and its users | React, Node.js | Engineer &amp; PM |
-| [📊 Project Three](https://github.com/Thameera08/project-three) | Short description of the product and its impact | Next.js, MySQL | Developer |
+| [📱 Telexa HRMS ](https://github.com/Thameera08/Talexa-HRMS-Intenal-TF) | HR System Mobile Application  | Flutter, Firebase | Lead Engineer |
+| [🌐 CBEU SMART](https://github.com/Thameera08/CBEU-SMART-Mobile) | Employee and Member Management Portal  | React, Node.js | Engineer &amp; PM |
+| [📊 Telexa ONE](https://github.com/Thameera08/Synera-RMS-Mobile) | Resturent Management System | Next.js, MySQL | Developer |
 
 > Replace these rows with your best projects and add results where possible (users, downloads, delivery time).
 
