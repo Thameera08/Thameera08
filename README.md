@@ -1,113 +1,75 @@
-![cover LinkedIn](https://github.com/user-attachments/assets/d2939228-8916-4de5-b4a8-0248a38fdf79)
+<div align="center">
 
-<h1 align="center">Hi, I'm Thameera Dananjaya 👋</h1>
+Hey, I'm Thameera Dananjaya 👋
+Software Engineer · Mobile & Web Developer · Project Manager
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+mobile+%26+web+experiences;Engineering+scalable+software+solutions;Leading+projects+from+idea+to+launch" alt="Typing introduction" />
 
-<h3 align="center">Mobile Application Engineer &amp; Project Manager</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Flutter+%26+Mobile+App+Engineer;Agile+Project+Manager;Full-Stack+Problem+Solver;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+<p>
+  <a href="mailto:thameeradananjaya08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thameera-dananjaya-aa54371b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://Thameera08.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <a href="mailto:thameeradananjaya08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/thameera-dananjaya-aa54371b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://Thameera08.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Thameera08&label=Profile%20views&color=2f81f7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Thameera08&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+
 </div>
 
-<hr/>
-
-## 👨‍💻 About Me
-
-- 📱 Mobile application engineer building cross-platform apps with **Flutter &amp; Dart**
-- 🧭 Project manager leading delivery with **Agile / Scrum**, from planning to release
-- 🌐 Full-stack capable: **React, Next.js, Node.js, Express** with **Firebase, MongoDB, MySQL**
-- 🏗️ Focused on clean architecture, maintainable code, and clear stakeholder communication
-- 🌱 Currently learning: **CI/CD automation, advanced state management, and AI-assisted development**
-- 💬 Ask me about: Flutter architecture, sprint planning, app releases, and web/mobile integration
-
-<hr/>
-
-## 💻 Code Snapshot
-
-```dart
-class Thameera {
-  final String role = 'Mobile Application Engineer & Project Manager';
-  final List<String> mobile = ['Flutter', 'Dart', 'Firebase'];
-  final List<String> web = ['React', 'Next.js', 'Node.js', 'Express'];
-  final List<String> methods = ['Agile', 'Scrum', 'Kanban', 'Git Flow'];
-
-  String get mission =>
-      'Ship reliable products that users love, on time and on budget.';
-
-  void workflow() {
-    plan();      // scope, user stories, estimates
-    design();    // Figma, UX review
-    build();     // clean, tested code
-    release();   // CI/CD, store submission
-    iterate();   // feedback and retrospectives
-  }
-}
-```
-
-<hr/>
-
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-<br/>
+👨‍💻 About Me
+I'm a Software Engineer focused on building reliable mobile and web applications, and a Project Manager who enjoys turning ideas into well-planned, production-ready products.
+- 📱 Mobile development: Flutter, Dart, Firebase, cross-platform application architecture
+- 🌐 Web development: React, Next.js, JavaScript, TypeScript, Node.js, Express
+- 🧩 Software engineering: REST APIs, databases, authentication, system integration, and maintainable architecture
+- 🧭 Project management: Agile/Scrum, requirements, sprint planning, stakeholder communication, and delivery
+- 🚀 My approach: Understand the problem → design the solution → build → test → release → improve
+- 🌱 Exploring: CI/CD, advanced state management, cloud deployment, and AI-assisted workflows
+🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,nodejs,express,typescript,javascript,python,flask,java,c" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,tailwind,bootstrap,mui,html,css,figma,vscode,git,github,r" />
+
+Mobile & Frontend
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,typescript,javascript,html,css,tailwind&perline=9" alt="Mobile and frontend stack" />
+
+
+Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,firebase,mysql,mongodb&perline=8" alt="Backend and database stack" />
+
+
+Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,docker&perline=6" alt="Development tools" />
+
 </div>
 
-<hr/>
+🚀 Featured Projects
+Project	What it does	Technologies	Contribution
+Talexa HRMS	Mobile HR management experience for employee workflows	Flutter, Firebase	Lead Engineer
+CBEU SMART	Employee and member management platform	React, Node.js	Engineer & Project Manager
+Talexa ONE / RMS	Restaurant management solution	Next.js, MySQL	Developer
 
-## 🧭 Project Management Approach
 
-| Phase | What I do |
-| :-- | :-- |
-| **Plan** | Define scope, user stories, acceptance criteria, and realistic timelines |
-| **Track** | Sprint boards, backlog grooming, and regular stakeholder updates |
-| **Deliver** | Code reviews, testing, and staged releases to the app stores |
-| **Improve** | Retrospectives and feedback-driven iteration after each release |
+Some professional projects may have restricted source access. The links above point to their respective repositories.
 
-<hr/>
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Role |
-| :-- | :-- | :-- | :-- |
-| [📱 Telexa HRMS ](https://github.com/Thameera08/Talexa-HRMS-Intenal-TF) | HR System Mobile Application  | Flutter, Firebase | Lead Engineer |
-| [🌐 CBEU SMART](https://github.com/Thameera08/CBEU-SMART-Mobile) | Employee and Member Management Portal  | React, Node.js | Engineer &amp; PM |
-| [📊 Telexa ONE](https://github.com/Thameera08/Synera-RMS-Mobile) | Resturent Management System | Next.js, MySQL | Developer |
-
-> Replace these rows with your best projects and add results where possible (users, downloads, delivery time).
-
-<hr/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thameera08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thameera08&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr/>
-
-## 🏅 Badges
-
-[![An image of @thameera08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thameera08)](https://holopin.io/@thameera08)
-
+🧭 How I Work
+01  DISCOVER    Understand business needs and define requirements
+02  PLAN        Break work into milestones, sprints, and deliverables
+03  ENGINEER    Build maintainable mobile, web, and backend solutions
+04  DELIVER     Test, review, deploy, and coordinate release
+05  IMPROVE     Measure feedback, iterate, and refine the product
+📈 GitHub Activity
 <div align="center">
-  <a href='https://www.buymeacoffee.com/botson.__' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thameera08&show_icons=true&theme=github_dark&hide_border=true" alt="Thameera's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thameera08&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </div>
 
-<p align="center"><i>⭐ If you like my work, give my repos a star!</i></p>
+🏅 Community
+<div align="center">
+  <a href="https://holopin.io/@thameera08"><img src="https://holopin.me/thameera08" alt="Thameera's Holopin badges" /></a>
+</div>
+
+<div align="center">
+
+🤝 Let's build something meaningful
+Interested in collaborating on mobile apps, web platforms, software products, or project delivery?
+
+Email me · Connect on LinkedIn · Explore my portfolio
+
+<sub>⭐ Explore my repositories and star any project you find useful.</sub>
+</div>
